@@ -154,7 +154,7 @@ typing-extensions==4.7.1 \
     #   importlib-metadata
     #   mypy
     #   ruff-lsp
-ujson==5.7.0 \
+ujson==5.12.0 \
     --hash=sha256:00343501dbaa5172e78ef0e37f9ebd08040110e11c12420ff7c1f9f0332d939e \
     --hash=sha256:0e4e8981c6e7e9e637e637ad8ffe948a09e5434bc5f52ecbb82b4b4cfc092bfb \
     --hash=sha256:0ee295761e1c6c30400641f0a20d381633d7622633cdf83a194f3c876a0e4b7e \
